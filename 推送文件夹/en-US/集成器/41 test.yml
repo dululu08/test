@@ -1,3 +1,3 @@
 server:
-    port: 8081
-    path: /hello
+    port: 测试
+    path: 结果
