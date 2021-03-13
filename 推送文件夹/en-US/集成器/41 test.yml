@@ -1,0 +1,3 @@
+server:
+    port: 测试
+    path: 结果
